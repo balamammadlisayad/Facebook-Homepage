@@ -1,0 +1,33 @@
+[
+    {
+        "paylasan_sexs" : "JM FILMS",
+        "paylasilma_vaxti": "8h",
+        "statusun_metni" : "lorem ipsum dolor sit amet",
+        "image" :"/image/pp2.jpg" ,
+        "post" : "/image/post1.jpg" ,
+        "like_sayi": 500,
+        "commentlerin_sayi" : 60,
+        "share": 21
+
+    },
+    {
+        "paylasan_sexs" : "Unknown Name",
+        "paylasilma_vaxti": "18h",
+        "statusun_metni" : "lorem ipsum dolor",
+        "image" :"https://source.unsplash.com/random/1" ,
+        "post" :"https://source.unsplash.com/random/2",
+        "like_sayi": 840,
+        "commentlerin_sayi" : 60,
+        "share": 12
+    },
+    {
+        "paylasan_sexs" : "Unknown Name",
+        "paylasilma_vaxti": "1d",
+        "statusun_metni" : "lorem ipsum dolor sit",
+        "image" :"https://source.unsplash.com/random/3" ,
+        "post" :"https://source.unsplash.com/random/4",
+        "like_sayi": 300,
+        "commentlerin_sayi" : 46,
+        "share": 9
+    }
+]
